@@ -1,0 +1,18 @@
+Permutacije zelimo da dobijemo sve skupove elemenata gde nam je poredak bitan,
+Kod kombinacija poredak nam nije bitan
+
+Permutacije:
+	1  2  3  4  != 3  4  2  1
+Kod kombinacija je
+	1  2  3  4  == 3  4  2  1
+
+Kombinacija po defaultu ima manje.
+Permutacije su sustinski faktorijel
+Kombinacije je kombinatorna formula
+
+Varijacije su sa ponavljanjem ako treba negde neki indeks da se ponavlja ili nesto slicno tome, trebalo bi varijacije koristiti.
+Koristili smo varijacije za generisanje stabala jer mozemo da imamo onu sekvencu cvorova sve 3, 3, 3, 3, ...
+
+Permutacije smo koristili kada smo hteli da pronadjemo optimalnu putanju busilice
+
+Kombinacije se koriste za pravljenje skupova poslova tipa K1 prosle godine

@@ -1,0 +1,7 @@
+1) 	Teorijski maksimalni broj poziva optimizacione fje je 711 ^ 4.
+	Za moj zadatak, maksimalan broj poziva optimizacione fje je 1696205718 poziva.
+	
+2) 	Teorijski maksimalni broj poziva optimizacione fje je 711 ^ 3.
+	Za moj zadatak, maksimalan broj poziva optimizacione fje je 78174122 poziva.
+	
+3) 	Brzi algoritam je pod b. Manja je kompleksnost algoritma. 

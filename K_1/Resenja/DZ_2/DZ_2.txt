@@ -1,0 +1,19 @@
+
+a)
+	Shortest path is:       81.4925
+
+
+        Path of traversal:      8, 7, 3, 2, 1, 5, 6, 4
+        Execution time: 0 seconds
+
+b)
+	Shortest path is:       130.163
+
+
+        Path of traversal:      12, 3, 2, 1, 5, 7, 8, 11, 10, 9, 6, 4
+        Execution time: 6 seconds
+
+NAPOMENA: 
+Za ove putanje postoji ista, simetricna putanja.
+Problem je simetricne prirode - burgija moze da krene od tacke 8 i tacke 4 (za zadatak pod a), redosled putanje je samo obrnut u odnosu
+na prilozeno resenje

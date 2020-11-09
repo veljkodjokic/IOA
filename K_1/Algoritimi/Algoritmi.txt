@@ -1,0 +1,15 @@
+Polovljenje intervala:
+	Binarna pretraga -> vazno je da uzmemo opseg koji zauzima promenu znaka
+	izmedju dve tacke. Promena znaka je vrlo vazna
+Regula falsi:
+	Isto moramo da imamo promenu znaka izmedju dve odabrane tacke opsegam, potom treba da izracunamo onu folmuru
+	sa prezentacije da dobijemo tacku gde secica koju smo dobili preseca x osu. Tad kada dobijemo tu tacku, gledamo 
+	koji je novi interval, interval dobijamo isto kao sa bin pretragom
+
+Njutnov metod:
+	U polaznoj tacki odredimo tangentu i nadjemo gde preseca krivu. Nova tacka postaje onda ta nova tacka.
+	Problem je sam izvod da bismo dobili tu tangentu. Tamo gde imamo sistem upravljanja obicno se ovo koristi
+	Ako funkcija ima lokalni minimum, to moze da bude problematicno
+	Njutnov metod se generalizuje Tejlorovim redom
+	Generalizacija je kod spice-olikih programa koristi neki klasterfak jednacina
+	

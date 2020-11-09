@@ -1,0 +1,4 @@
+Cena: 698
+Putanja: 2 10 -  3 9 -  5 1 -  1 6 -  6 4 -  7 4 -  4 9 -  9 8 -  8 10
+
+Par brojeva razdvojenih razmakom predstavlja jednu granu, tj. predstavlja dva cvora u grafu koja su medjusobno povezana.
